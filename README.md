@@ -32,9 +32,13 @@ DNHS AP CS Principles, Mr. Mortenson: Period 5
 Group - p5 Supercool
 
 James Hunt 
+
 Kira Liao 
+
 Lucas Kaimer 
+
 Sam Koenig 
+
 Mackenize Aboy
 
 ## Project Requirements
