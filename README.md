@@ -8,12 +8,15 @@ After opening the website and reading our title. Simply start by clicking a butt
 
 ##File Descriptions 
 
-
-README.md - Creates an easy overview of the website
+General Code Files
 
 Site.html - The actual website with everything connected to it
 
 style.css - Creates format for the main website
+
+Non-code Files
+
+README.md - Creates an easy overview of the website
 
 strandedpicture.png - Picture for stranded button
 
