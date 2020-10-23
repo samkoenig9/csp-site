@@ -8,7 +8,6 @@ html, body {
   margin:0;
 }
 
-
 .header {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-bottom-left-radius: 20px;
@@ -16,8 +15,8 @@ html, body {
   padding: 50px;
   background: linear-gradient(#800101, #940000);
   text-align: center;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
   font-family: 'Staatliches', cursive;
   font-size: 200%;
 
