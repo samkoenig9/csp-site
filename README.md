@@ -5,6 +5,7 @@ This website's purpose is to link all of P5 supercool's indiviual work into one 
 ## How to run the site
 
 Click "code" button on the github repository then click download zip
+
 Unzip the file and then run the "site.html" file in your browser
 
 ## File Descriptions 
