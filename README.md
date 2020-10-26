@@ -1,6 +1,6 @@
 # Welcome to my Website!
 
-This website's purpose is to link all of P5 supercool's indiviual work into one simple website. Have fun learning about all the cool projects!
+This website's purpose is to link all of my different projects from APCSP 1 in one place.
 
 ## How to run the site
 
